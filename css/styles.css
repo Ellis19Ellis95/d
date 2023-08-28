@@ -78,15 +78,19 @@ h5 {
 p {
   margin: 0;
 }
+
+
 .footer {
   background-color: #0a224a;
   padding: 36px 16px 16px 16px;
 }
+
+
+
 @media only screen and (min-width: 768px) {
   .footer {
     padding: 48px 32px;
 
-  
 }
 
 hhh
@@ -96,13 +100,21 @@ hhh
       margin: 0 auto;
       position: relative;
   }
-@media only screen and (min-width: 1440px) {
-  .footer {
-    padding: 60px 48px;
-  }
 }
+
+@media only screen and (min-width: 1440px) {
+
+.footer {
+  padding: 60px 48px;
+}
+    
+  
+
+
 .div-footer {
   position: relative;
+}
+
 }
 @media only screen and (min-width: 768px) {
   .div-footer {

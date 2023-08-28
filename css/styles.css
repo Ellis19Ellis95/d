@@ -259,16 +259,16 @@ p {
 
 
 
+.div-footer
 
 
-
-@media screen and (min-width:1440px ) {
+@media screen and (min-width:375px ) {
   .div-footer {
-      max-width: 1376px;
+      max-width: 343px;
       margin: 0 auto;
-      position: relative;
-  } 
-}   
+  }
+}
+
 
 @media screen and (min-width:768px ) {
   .div-footer {
@@ -280,9 +280,11 @@ p {
 }
 
 
-      @media screen and (min-width:375px ) {
+@media screen and (min-width:1440px ) {
   .div-footer {
-      max-width: 343px;
+      max-width: 1376px;
       margin: 0 auto;
+      position: relative;
+
   }
-      }
+}

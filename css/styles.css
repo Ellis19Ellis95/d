@@ -85,23 +85,6 @@ p {
   padding: 36px 16px 16px 16px;
 }
 
-
-
-@media only screen and (min-width: 768px) {
-  .footer {
-    padding: 48px 32px;
-
-}
-
-hhh
-.div-footer {
-   
-      padding: 36px 32px 36px 32px;
-      margin: 0 auto;
-      position: relative;
-  }
-}
-
 @media only screen and (min-width: 1440px) {
 
 .footer {
@@ -116,6 +99,67 @@ hhh
 }
 
 }
+
+@media only screen and (min-width: 1440px) {
+  .bundle {
+    display: flex;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .logo-footer {
+    margin-right: 216.42px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .menu-footer {
+    margin-bottom: 32px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .our-menu-footer {
+    display: flex;
+    padding-right: 400px;
+    gap: 30px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .agreement {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .About-us-footer {
+    font-size: 18px;
+
+    line-height: 27px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .footer-contact {
+    margin: 0px 82px 0px 65px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .footer-geolocation {
+    margin-bottom: 32px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .footer {
+    padding: 48px 32px;
+
+}
+@media only screen and (min-width: 768px) {
+  .logo-footer {
+    margin-right: 249px;
+    height: 16px;
+    margin-bottom: 0px;
+  }
+}
+}
+
+
 @media only screen and (min-width: 768px) {
   .div-footer {
     display: flex;
@@ -144,35 +188,14 @@ hhh
   padding: 8px 0px;
   margin-bottom: 36px;
 }
-}
-@media only screen and (min-width: 768px) {
-  .logo-footer {
-    margin-right: 249px;
-    height: 16px;
-    margin-bottom: 0px;
-  }
-}
-@media only screen and (min-width: 1440px) {
-  .logo-footer {
-    margin-right: 216.42px;
-  }
-}
+
+
+
 
 .menu-footer {
   margin-bottom: 36px;
 }
-@media only screen and (min-width: 1440px) {
-  .menu-footer {
-    margin-bottom: 32px;
-  }
-}
-@media only screen and (min-width: 1440px) {
-  .our-menu-footer {
-    display: flex;
-    padding-right: 400px;
-    gap: 30px;
-  }
-}
+
 
 .About-us-footer {
   color: #fff;
@@ -182,13 +205,7 @@ hhh
   font-weight: 400;
   line-height: 24px;
 }
-@media only screen and (min-width: 1440px) {
-  .About-us-footer {
-    font-size: 18px;
 
-    line-height: 27px;
-  }
-}
 .About-us-footer-2 {
   color: var(--white, #fff);
   font-family: Roboto;
@@ -201,11 +218,7 @@ hhh
 .footer-geolocation {
   margin-bottom: 36px;
 }
-@media only screen and (min-width: 1440px) {
-  .footer-geolocation {
-    margin-bottom: 32px;
-  }
-}
+
 .menu-item-footer:not(:last-child) {
   margin-bottom: 8px;
 }
@@ -215,11 +228,7 @@ hhh
 .footer-contact {
   margin-bottom: 64px;
 }
-@media only screen and (min-width: 1440px) {
-  .footer-contact {
-    margin: 0px 82px 0px 65px;
-  }
-}
+
 .agreement {
   color: #fff;
   opacity: 60%;
@@ -231,22 +240,13 @@ hhh
   line-height: 14px;
   letter-spacing: 1.188px;
 }
-@media only screen and (min-width: 1440px) {
-  .agreement {
-    font-size: 16px;
-    line-height: 20px;
-  }
-}
+
 
 .agreement-link {
   color: #fff;
   opacity: 60%;
 }
-@media only screen and (min-width: 1440px) {
-  .bundle {
-    display: flex;
-  }
-}
+
 @media only screen and (max-width: 767.9px) {
   .our-link {
     display: none;
